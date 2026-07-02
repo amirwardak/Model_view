@@ -5,3 +5,4 @@ build/
 *.pro.user 
 *.o 
 *.obj 
+*.stash
