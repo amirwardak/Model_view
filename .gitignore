@@ -1,0 +1,7 @@
+.qtcreator/ 
+debug/
+release/
+build/ 
+*.pro.user 
+*.o 
+*.obj 
